@@ -1,5 +1,3 @@
-remote_theme: jeromelachaud.com/freelancer-theme
-plugins:
-- jekyll-remote-theme
+remote_theme: freelancer-theme
 
 title: Human Computer Interaction Design Porfolio
