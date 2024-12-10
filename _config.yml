@@ -1,5 +1,5 @@
-title: Human Computer Interaction Design Porfolio
-
-theme: time-machine
+remote_theme: jeromelachaud.com/freelancer-theme
 plugins:
 - jekyll-remote-theme
+
+title: Human Computer Interaction Design Porfolio
