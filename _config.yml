@@ -1,0 +1,5 @@
+title: Human Computer Interaction Design Porfolio
+
+theme: time-machine
+plugins:
+- jekyll-remote-theme
